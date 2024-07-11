@@ -8,3 +8,4 @@
 4. criar uma nova branch; []
 5. realizar um pull request e merge; []
 6. criar nosso primeiro fork; []
+7. realizando alterações no nosso repositorio teste
