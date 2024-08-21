@@ -11,3 +11,5 @@
 7. realizando alterações no nosso repositorio teste; []
 
 apredendo sobre Tags | Realeases | Gists | issues | wikis ;
+
+trabalhando de forma eficiente com markdown; 
